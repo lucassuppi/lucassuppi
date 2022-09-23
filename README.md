@@ -2,8 +2,6 @@
 # Olá, Eu sou Lucas!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/uKyrius)](https://github.com/uKyrius)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/uKyrius)](https://twitter.com/uKyrius)
-<img src="https://user-images.githubusercontent.com/88332280/127907173-1910abcf-be05-418c-b2e8-ae3ab11fa7ea.gif" width="50">
 
 About me | Sobre mim (en/pt)
 ↓
