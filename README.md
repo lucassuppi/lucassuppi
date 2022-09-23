@@ -2,7 +2,7 @@
 # Olá, Eu sou Lucas!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucassuppi)](https://github.com/lucassuppi)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&https://www.linkedin.com/in/lucas-suppi-b3251b232/)(https://www.linkedin.com/in/lucas-suppi-b3251b232/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&https://www.linkedin.com/in/lucas-suppi-b3251b232/)
 
 
 About me | Sobre mim (en/pt)
